@@ -1,6 +1,6 @@
 # Qingci-Bot
 
-> 本项目已转为 [Qingci-Bot 组织](https://atomgit.com/Qingci-Bot) 维护，后续更新请关注组织仓库。
+> 本项目已转为 [Qingci-Bot 组织](https://atomgit.com/Qingci-Bot) 维护，后续更新请关注组织仓库[Qingci-Bot-CE](https://atomgit.com/Qingci-Bot/Qingci-Bot-CE)。
 
 基于 Python 的 QQ 机器人框架，对接 [LLBot](https://github.com/LLOneBot/LuckyLilliaBot)（OneBot 11 协议），支持 LLM 智能对话、Web UI 和桌面应用。
 
