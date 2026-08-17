@@ -1,10 +1,10 @@
 # Qingci-Bot
 
-> 本项目已转为 [Qingci-Bot 组织](https://atomgit.com/Qingci-Bot) 维护，后续更新请关注组织仓库[Qingci-Bot-CE](https://atomgit.com/Qingci-Bot/Qingci-Bot-CE)。
+> 本项目已转为 [Qingci-Bot 组织](https://github.com/Qingci-Bot) 维护，后续更新请关注组织仓库[Qingci-Bot-CE](https://github.com/Qingci-Bot/Qingci-Bot-CE)。
 
 基于 Python 的 QQ 机器人框架，对接 [LLBot](https://github.com/LLOneBot/LuckyLilliaBot)（OneBot 11 协议），支持 LLM 智能对话、Web UI 和桌面应用。
 
-> 独立插件开发：[Plugins-Dev](https://atomgit.com/luoqingci/Plugins-Dev) — 零依赖插件开发 SDK，无需克隆主项目即可开发插件
+> 独立插件开发：[Plugins-Dev](https://github.com/luoqingciya/Plugins-SDK) — 零依赖插件开发 SDK，无需克隆主项目即可开发插件
 >
 > 系统架构、项目结构、技术栈详见 [ARCHITECTURE.md](./ARCHITECTURE.md)
 
@@ -336,7 +336,7 @@ api_key: ''                        # API 鉴权密钥
 
 > 插件开发、API 接口、前端开发、打包详见 [PLUGIN_DEV.md](./PLUGIN_DEV.md)
 >
-> 独立插件开发 SDK：[Plugins-Dev](https://atomgit.com/luoqingci/Plugins-Dev) — 零依赖插件开发工具包，无需克隆主项目即可开发插件
+> 独立插件开发 SDK：[Plugins-Dev](https://github.com/luoqingciya/Plugins-SDK) — 零依赖插件开发工具包，无需克隆主项目即可开发插件
 
 ## 文档
 
